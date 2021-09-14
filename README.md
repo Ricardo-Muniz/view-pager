@@ -1,1 +1,1 @@
-# view-pager-v2
+# view-pager2
